@@ -3,75 +3,71 @@
 ## Rules
 
 * All content inside GPT4All shall have a documented maintainer
-* If a maintainer decides to retire or resign a call for volunteers will go
-  out
-* If no further maintainer can be found in a reasonable time frame, then the
-  content will be marked deprecated and removed in time
+* If a maintainer decides to retire or resign, a call for volunteers may be announced
+* Deprecated or unsupported modules may be removed over time
+* All project modifications and custom implementations are maintained under repository guidelines
 
-## Job
+---
 
-Maintainers will be...
+## Responsibilities
 
-1. Responsible for overseeing content under their stewardship
-2. Responsible for triaging new issues, reviewing PRs, assigning priority
-   to tasks
-3. Responsible for keeping content in sufficient quality in a timely fashion
+Maintainers are responsible for:
 
-## List
+1. Overseeing project content and development
+2. Reviewing issues and pull requests
+3. Maintaining project quality and documentation
+4. Managing feature updates and improvements
+5. Supporting community contributions
 
-Adam Treat ([@manyoso](https://github.com/manyoso))<br/>
-E-mail: adam@nomic.ai<br/>
-Discord: `@gonzochess75`
+---
+
+# Project Maintainer
+
+## Krishna Chandra Panda
+GitHub: [@krishnachandra-16](https://github.com/krishnachandra-16)
+
+### Responsibilities
 - Overall project maintainer
-- Chat UI
+- Project customization
+- UI improvements
+- AI workflow enhancements
+- Documentation updates
+- Python integration support
+- Repository management
 
-Jared Van Bortel ([@cebtenzzre](https://github.com/cebtenzzre))<br/>
-E-mail: jared@nomic.ai<br/>
-Discord: `@cebtenzzre`
-- gpt4all-backend
-- Python binding
-- Python CLI app
+---
 
-Jacob Nguyen ([@jacoobes](https://github.com/jacoobes))<br/>
-Discord: `@jacoobes`<br/>
-E-mail: `jacoobes@sern.dev`
-- TypeScript binding
+# Development Areas
 
-Dominik ([@cosmic-snow](https://github.com/cosmic-snow))<br/>
-E-mail: cosmic-snow@mailfence.com<br/>
-Discord: `@cosmic__snow`
-- Community documentation (GitHub Wiki)
+## Core Components
+- GPT4All backend integration
+- Python implementation
+- Local AI model support
+- Desktop application workflow
 
-Max Cembalest ([@mcembalest](https://github.com/mcembalest))<br/>
-E-mail: max@nomic.ai<br/>
-Discord: `@maxcembalest.`
-- Official documentation (gpt4all-bindings/python/docs -> https://docs.gpt4all.io/)
+---
 
-Thiago Ramos ([@thiagojramos](https://github.com/thiagojramos))<br/>
-E-mail: thiagojramos@outlook.com<br/>
-- pt\_BR translation
+# Community Contributions
 
-不知火 Shiranui ([@supersonictw](https://github.com/supersonictw))<br/>
-E-mail: supersonic@livemail.tw<br/>
-Discord: `@supersonictw`
-- zh\_TW translation
+Community contributions are welcome through:
+- Pull requests
+- Documentation improvements
+- Feature suggestions
+- Bug fixes
+- UI enhancements
 
-Jeremy Tayco ([@jstayco](https://github.com/jstayco))<br/>
-E-mail: jstayco@protonmail.ch<br/>
-Discord: `@vertana`
-- es\_MX translation
+---
 
-Riccardo Giovanetti ([@Harvester62](https://github.com/Harvester62))<br/>
-E-mail: riccardo.giovanetti@gmail.com<br/>
-Discord: `@harvester62`
-- it\_IT translation
+# Repository
 
-Tim ([@Tim453](https://github.com/Tim453))<br/>
-E-mail: tim453@mailbox.org<br/>
-Discord: `@Tim453`
-- Flatpak
+Official customized repository maintained by:
 
-Jack ([@wuodoo](https://github.com/wuodoo))<br/>
-E-mail: 2296103047@qq.com<br/>
-Discord: `@mikage`
-- zh\_CN translation
+https://github.com/krishnachandra-16
+
+---
+
+# Maintainer Notes
+
+This customized repository is maintained and enhanced by Krishna Chandra Panda for educational, development, and AI experimentation purposes.
+
+The project is based on open-source technologies and follows applicable open-source contribution standards.
