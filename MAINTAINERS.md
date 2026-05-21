@@ -1,77 +1,70 @@
-# MAINTAINERS
+## 🧑‍💻 Project Leadership (Fork Maintainer)
 
-## Rules
+**Krishna Chandra (krishnachandra-16)**  
+📧 Email: krishnachandra9877@gmail.com  
+📸 Instagram: https://instagram.com/krishnna._16  
 
-* All content inside GPT4All shall have a documented maintainer
-* If a maintainer decides to retire or resign a call for volunteers will go
-  out
-* If no further maintainer can be found in a reasonable time frame, then the
-  content will be marked deprecated and removed in time
+---
 
-## Job
+## 🧭 Role & Responsibilities
 
-Maintainers will be...
+As the maintainer of this forked version of GPT4All, I am responsible for guiding the direction, improvements, and overall development of this customized build.
 
-1. Responsible for overseeing content under their stewardship
-2. Responsible for triaging new issues, reviewing PRs, assigning priority
-   to tasks
-3. Responsible for keeping content in sufficient quality in a timely fashion
+My responsibilities include:
 
-## List
+- Defining and maintaining the roadmap for this fork  
+- Improving user experience, UI/UX, and accessibility  
+- Managing feature enhancements and experimental changes  
+- Ensuring documentation is clear, updated, and easy to understand  
+- Testing and validating new improvements before integration  
+- Handling community feedback and issue tracking for this fork  
+- Maintaining compatibility with upstream GPT4All where applicable  
+- Adding personal enhancements focused on usability and performance  
 
-Adam Treat ([@manyoso](https://github.com/manyoso))<br/>
-E-mail: adam@nomic.ai<br/>
-Discord: `@gonzochess75`
-- Overall project maintainer
-- Chat UI
+---
 
-Jared Van Bortel ([@cebtenzzre](https://github.com/cebtenzzre))<br/>
-E-mail: jared@nomic.ai<br/>
-Discord: `@cebtenzzre`
-- gpt4all-backend
-- Python binding
-- Python CLI app
+## 🚀 Project Focus Areas
 
-Jacob Nguyen ([@jacoobes](https://github.com/jacoobes))<br/>
-Discord: `@jacoobes`<br/>
-E-mail: `jacoobes@sern.dev`
-- TypeScript binding
+This fork primarily focuses on:
 
-Dominik ([@cosmic-snow](https://github.com/cosmic-snow))<br/>
-E-mail: cosmic-snow@mailfence.com<br/>
-Discord: `@cosmic__snow`
-- Community documentation (GitHub Wiki)
+- ⚡ Performance optimization for local LLM usage  
+- 🌐 Improved multilingual support and accessibility  
+- 📄 Enhanced LocalDocs and RAG-based features  
+- 🎨 UI simplification and usability improvements  
+- 🧠 Better model handling and discoverability  
+- 🔧 Developer-friendly improvements and documentation clarity  
 
-Max Cembalest ([@mcembalest](https://github.com/mcembalest))<br/>
-E-mail: max@nomic.ai<br/>
-Discord: `@maxcembalest.`
-- Official documentation (gpt4all-bindings/python/docs -> https://docs.gpt4all.io/)
+---
 
-Thiago Ramos ([@thiagojramos](https://github.com/thiagojramos))<br/>
-E-mail: thiagojramos@outlook.com<br/>
-- pt\_BR translation
+## 📌 Development Approach
 
-不知火 Shiranui ([@supersonictw](https://github.com/supersonictw))<br/>
-E-mail: supersonic@livemail.tw<br/>
-Discord: `@supersonictw`
-- zh\_TW translation
+This project follows a structured but flexible development approach:
 
-Jeremy Tayco ([@jstayco](https://github.com/jstayco))<br/>
-E-mail: jstayco@protonmail.ch<br/>
-Discord: `@vertana`
-- es\_MX translation
+- Stability first — ensuring the application remains reliable  
+- Incremental updates — small, trackable improvements  
+- User-focused design — features built around usability  
+- Open feedback loop — improvements guided by real usage needs  
+- Compatibility awareness — keeping alignment with upstream GPT4All when possible  
 
-Riccardo Giovanetti ([@Harvester62](https://github.com/Harvester62))<br/>
-E-mail: riccardo.giovanetti@gmail.com<br/>
-Discord: `@harvester62`
-- it\_IT translation
+---
 
-Tim ([@Tim453](https://github.com/Tim453))<br/>
-E-mail: tim453@mailbox.org<br/>
-Discord: `@Tim453`
-- Flatpak
+## 🤝 Contribution & Collaboration
 
-Jack ([@wuodoo](https://github.com/wuodoo))<br/>
-E-mail: 2296103047@qq.com<br/>
-Discord: `@mikage`
-- zh\_CN translation
+Contributions to this fork are welcome.  
+
+Before contributing:
+- Ensure changes align with the project focus  
+- Maintain clean and readable code standards  
+- Discuss major changes before implementation  
+- Keep improvements modular and well-documented  
+
+---
+
+## 📬 Contact
+
+For suggestions, feedback, or collaboration:
+
+- 📧 Email: krishnachandra9877@gmail.com  
+- 📸 Instagram: https://instagram.com/krishnna._16  
+
+---
