@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nomic.ai/gpt4all">Website</a> &bull; <a href="https://docs.gpt4all.io">Documentation</a> &bull; <a href="https://discord.gg/mGZE39AS3e">Discord</a> &bull; <a href="https://www.youtube.com/watch?v=gQcZDXRVJok">YouTube Tutorial</a>
+  <a href="https://www.nomic.ai/gpt4all">Website</a> &bull; 
+  <a href="https://docs.gpt4all.io">Documentation</a> &bull; 
+  <a href="https://www.youtube.com/watch?v=gQcZDXRVJok">YouTube Tutorial</a> &bull; 
+  <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a> &bull; 
+  <a href="mailto:YOUR_EMAIL@gmail.com">Contact Email</a>
 </p>
 
 <p align="center">
@@ -49,56 +53,34 @@ GPT4All is made possible by our compute partner <a href="https://www.paperspace.
     <img src="gpt4all-bindings/python/docs/assets/windows.png" style="height: 1em; width: auto" /> Windows Installer
   </a> &mdash;
 </p>
+
 <p>
   &mdash; <a href="https://gpt4all.io/installers/gpt4all-installer-win64-arm.exe">
     <img src="gpt4all-bindings/python/docs/assets/windows.png" style="height: 1em; width: auto" /> Windows ARM Installer
   </a> &mdash;
 </p>
+
 <p>
   &mdash; <a href="https://gpt4all.io/installers/gpt4all-installer-darwin.dmg">
     <img src="gpt4all-bindings/python/docs/assets/mac.png" style="height: 1em; width: auto" /> macOS Installer
   </a> &mdash;
 </p>
+
 <p>
   &mdash; <a href="https://gpt4all.io/installers/gpt4all-installer-linux.run">
     <img src="gpt4all-bindings/python/docs/assets/ubuntu.svg" style="height: 1em; width: auto" /> Ubuntu Installer
   </a> &mdash;
 </p>
 
-<p>
-  The Windows and Linux builds require Intel Core i3 2nd Gen / AMD Bulldozer, or better.
-</p>
-<p>
-  The Windows ARM build supports Qualcomm Snapdragon and Microsoft SQ1/SQ2 processors.
-</p>
-<p>
-  The Linux build is x86-64 only (no ARM).
-</p>
-<p>
-  The macOS build requires Monterey 12.6 or newer. Best results with Apple Silicon M-series processors.
-</p>
-
-See the full [System Requirements](gpt4all-chat/system_requirements.md) for more details.
-
 ---
 
-<br/>
-<br/>
-
-<p>
-  <a href='https://flathub.org/apps/io.gpt4all.gpt4all'>
-    <img style="height: 2em; width: auto" alt='Get it on Flathub' src='https://flathub.org/api/badge'><br/>
-    Flathub (community maintained)
-  </a>
-</p>
+## 📩 Contact & Support
+- 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
+- 📧 Email: YOUR_EMAIL@gmail.com  
 
 ---
 
 ## Install GPT4All Python
-
-`gpt4all` gives you access to LLMs with our Python client around [`llama.cpp`](https://github.com/ggerganov/llama.cpp) implementations. 
-
-Nomic contributes to open source software like [`llama.cpp`](https://github.com/ggerganov/llama.cpp) to make LLMs accessible and efficient **for all**.
 
 ```bash
 pip install gpt4all
