@@ -75,8 +75,8 @@ GPT4All is made possible by our compute partner <a href="https://www.paperspace.
 ---
 
 ## 📩 Contact & Support
-- 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
-- 📧 Email: YOUR_EMAIL@gmail.com  
+- 📸 Instagram: https://instagram.com/krishnna._16
+- 📧 Email: krishnachandra9877@gmail.com  
 
 ---
 
