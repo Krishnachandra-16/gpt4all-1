@@ -1,51 +1,132 @@
+<div align="center">
 
-# GPT4All 2024 Roadmap
-To contribute to the development of any of the below roadmap items, make or find the corresponding issue and cross-reference the [in-progress task](https://github.com/orgs/nomic-ai/projects/2/views/1).
+# 🚀 GPT4All 2026 Roadmap
 
-Each item should have an issue link below.
+<img src="https://img.shields.io/badge/Owner-krishnachandra--16-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Local%20AI%20%7C%20Multilingual%20%7C%20RAG-orange?style=for-the-badge" />
 
-- Chat UI Language Localization (localize UI into the native languages of users)
-    - [ ] Chinese
-    - [ ] German
-    - [ ] French
-    - [x] Portuguese
-    - [ ] Your native language here. 
-- UI Redesign: an internal effort at Nomic to improve the UI/UX of gpt4all for all users.
-    - [x] Design new user interface and gather community feedback
-    - [x] Implement the new user interface and experience.
-- Installer and Update Improvements
-    - [ ] Seamless native installation and update process on OSX
-    - [ ] Seamless native installation and update process on Windows
-    - [ ] Seamless native installation and update process on Linux
-- Model discoverability improvements:
-    - [x] Support huggingface model discoverability
-    - [x] Support Nomic hosted model discoverability
-- LocalDocs (towards a local perplexity)
-    - Multilingual LocalDocs Support
-        - [ ] Create a multilingual experience
-        - [ ] Incorporate a multilingual embedding model
-        - [ ] Specify a preferred multilingual LLM for localdocs
-    - Improved RAG techniques
-        - [ ] Query augmentation and re-writing
-        - [ ] Improved chunking and text extraction from arbitrary modalities
-            - [ ] Custom PDF extractor past the QT default (charts, tables, text)
-        - [ ] Faster indexing and local exact search with v1.5 hamming embeddings and reranking (skip ANN index construction!)
-    - Support queries like 'summarize X document'
-    - Multimodal LocalDocs support with Nomic Embed
-    - Nomic Dataset Integration with real-time LocalDocs
-        - [ ] Include an option to allow the export of private LocalDocs collections to Nomic Atlas for debugging data/chat quality
-        - [ ] Allow optional sharing of LocalDocs collections between users.
-        - [ ] Allow the import of a LocalDocs collection from an Atlas Datasets
-            - Chat with live version of Wikipedia, Chat with Pubmed, chat with the latest snapshot of world news.
-- First class Multilingual LLM Support
-    - [ ] Recommend and set a default LLM for German
-    - [ ] Recommend and set a default LLM for English
-    - [ ] Recommend and set a default LLM for Chinese
-    - [ ] Recommend and set a default LLM for Spanish
+---
 
-- Server Mode improvements
-    - Improved UI and new requested features:
-        - [ ] Fix outstanding bugs and feature requests around networking configurations.
-        - [ ] Support Nomic Embed inferencing
-        - [ ] First class documentation
-        - [ ] Improving developer use and quality of server mode (e.g. support larger batches)
+### 🌍 Local-first AI • 🧠 Smarter Models • ⚡ Faster Experience • 🌐 Global Access
+
+</div>
+
+---
+
+## 📌 Overview
+This roadmap defines the development direction for **GPT4All in 2026**, focusing on:
+
+- Local AI execution  
+- Multilingual intelligence  
+- Better retrieval (RAG) systems  
+- Improved UX and developer experience  
+
+---
+
+## 🌍 Chat UI & Localization
+Expanding GPT4All for global users.
+
+- 🇨🇳 Chinese localization  
+- 🇩🇪 German localization  
+- 🇫🇷 French localization  
+- 🇵🇹 Portuguese localization  
+- 🌐 Community-driven languages  
+
+---
+
+## 🎨 UI/UX Redesign
+Modernizing the interface for better usability.
+
+- Clean, modern UI design overhaul  
+- Community feedback integration  
+- Cross-platform UI consistency  
+
+---
+
+## 📦 Installer & Updates
+Simplified installation across all platforms.
+
+- 🍎 macOS native installer improvements  
+- 🪟 Windows setup & update enhancements  
+- 🐧 Linux installation improvements  
+- Seamless auto-update system  
+
+---
+
+## 🔎 Model Discoverability
+Improving model access and selection.
+
+- 🤗 Hugging Face model integration  
+- 🧠 Nomic-hosted model discovery  
+- Smarter search & filtering system  
+
+---
+
+## 📄 LocalDocs (Local AI Knowledge Engine)
+
+### 🌐 Multilingual Intelligence
+- Multilingual embeddings support  
+- Language-aware document understanding  
+- Preferred multilingual LLM selection  
+
+### ⚙️ RAG & Performance Improvements
+- Query rewriting & augmentation  
+- Advanced chunking & extraction  
+- Improved PDF parsing (tables, charts, text)  
+- Faster indexing (v1.5 embeddings + reranking)  
+
+### 📚 Advanced Features
+- Document summarization queries  
+- Multimodal LocalDocs (via Nomic Embed)  
+- Nomic dataset integration  
+- Export/import via Nomic Atlas  
+- Optional sharing of LocalDocs collections  
+- Chat with:
+  - Wikipedia  
+  - PubMed  
+  - Latest world news  
+
+---
+
+## 🌐 Multilingual LLM Support
+Better default model recommendations per language:
+
+- 🇩🇪 German  
+- 🇺🇸 English  
+- 🇨🇳 Chinese  
+- 🇪🇸 Spanish  
+
+---
+
+## 🖥️ Server Mode Improvements
+Stronger backend & developer experience.
+
+- Fix networking issues  
+- Improve documentation  
+- Support large batch processing  
+- Enable embedding inference  
+- Improve stability & performance  
+
+---
+
+## 🤝 Contribution
+Contributions are welcome!
+
+Please ensure:
+- Each feature has an associated issue  
+- Discussions happen before major changes  
+- Code follows project standards  
+
+---
+
+## ⭐ License
+ (MIT / Apache / etc.)
+
+---
+
+<div align="center">
+
+### 🔥 Built for the future of Local AI (2026)
+
+</div>
