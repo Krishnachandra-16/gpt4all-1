@@ -12,8 +12,8 @@
   <a href="https://www.nomic.ai/gpt4all">Website</a> &bull; 
   <a href="https://docs.gpt4all.io">Documentation</a> &bull; 
   <a href="https://www.youtube.com/watch?v=gQcZDXRVJok">YouTube Tutorial</a> &bull; 
-  <a href="https://instagram.com/YOUR_INSTAGRAM">Instagram</a> &bull; 
-  <a href="mailto:YOUR_EMAIL@gmail.com">Contact Email</a>
+  <a href="https://instagram.com/krishnna._16">Instagram</a> &bull; 
+  <a href="mailto:krishnachandra9877@gmail.com">Contact@Email</a>
 </p>
 
 <p align="center">
